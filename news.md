@@ -1,11 +1,13 @@
-# Atualização 1.5 — Novo Mapa
-2025-01-15
+# Welcome to Dark End of the World
+2026-05-09
 
-A maior atualização do ano chegou! Explore as Catacumbas Sombrias.
+This game was created in 1998. 
+If you're feeling nostalgic or just enjoy old games, give this fascinating game a try. 
+Check out the tutorial for more information.
 
 ---
 
-# Evento de Halloween
-2025-01-10
+# Cheap market sale
+2026-05-09
 
-Durante todo o mês de outubro, colete almas amaldiçoadas.
+Take advantage of the bargains in the in-game store!
