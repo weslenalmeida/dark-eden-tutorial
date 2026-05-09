@@ -1,44 +1,272 @@
-# Getting Started
+# Dark Eden - Beginner's Guide
 
-Welcome to Dark Eden: End Of World! This guide will help you get started in the game.
+## What is Dark Eden?
 
-## Installation
+Dark Eden is a massively multiplayer online role-playing game (MMORPG) set in a dark, gothic world where three races — Slayers (humans), Vampires, and Ousters (elemental beings) — fight for dominance. The game features real-time combat, a unique isometric perspective, and a day/night cycle that affects gameplay.
 
-1. Download the game client from the Download page
-2. Run the installer and follow the instructions
-3. Launch the game and create your account
+---
 
 ## Choosing Your Race
 
-There are three races available:
+When creating a character, you must choose one of three races. Each plays very differently.
 
-### Slayer
-Human warriors who fight against the darkness. They use weapons and technology to survive.
+### Slayer (Human)
+
+Slayers are versatile fighters who rely on weapons and equipment. They have multiple skill domains:
+
+| Domain | Role |
+|--------|------|
+| Blade | Melee DPS (one-handed swords) |
+| Sword | Melee DPS (two-handed swords) |
+| Gun | Ranged DPS (firearms) |
+| Heal | Support / Healer |
+| Enchant | Buffer / Debuffer |
+
+- Slayers level up individual skill domains by using skills from that domain.
+- Stats: STR, DEX, INT — distributed automatically based on actions.
+- Equipment-dependent: your gear matters a lot.
 
 ### Vampire
-Undead creatures of the night. They have powerful dark magic and supernatural abilities.
 
-### Ouster
-Ancient elemental beings. They control the forces of nature and use elemental magic.
+Vampires are powerful creatures of the night with innate abilities:
 
-## Controls
+- Single skill domain with many powerful skills.
+- Level-based progression (gain EXP, level up).
+- Stats: STR, DEX, INT — you distribute bonus points each level.
+- Can transform into Bat (flying), Wolf (fast movement), or Werewolf (combat form).
+- Stronger at night, weaker during the day.
+- Can Blood Drain enemies to recover HP.
 
-| Key | Action |
-|-----|--------|
-| W/A/S/D | Move character |
-| Left Click | Attack |
-| Right Click | Use skill |
-| Tab | Open inventory |
-| M | Open map |
+### Ousters
+
+Ousters are elemental beings with nature-based magic:
+
+- Single skill domain with elemental skills (Fire, Water, Earth, Wind).
+- Level-based progression like Vampires.
+- Stats: STR, DEX, INT — bonus points distributed each level.
+- Use Chakrams as weapons (ranged melee hybrid).
+- Can summon elemental creatures.
+- Versatile with both offensive and defensive magic.
+
+---
+
+## Getting Started
+
+### First Steps
+
+1. **Create your character** — choose race, name, and appearance.
+2. **Enter the game** — you start in a safe zone (town).
+3. **Talk to NPCs** — they provide quests, sell items, and offer services.
+4. **Get basic equipment** — visit shops to buy starter gear.
+5. **Head outside town** — fight weak monsters near the safe zone.
+
+### Safe Zones
+
+Areas marked as safe zones (towns, villages) are places where:
+- You cannot be attacked by other players.
+- You can access shops, storage, and services.
+- You can rest and recover.
+
+---
+
+## Combat Basics
+
+### Controls
+
+- **Left-click** — Move to location / Select target
+- **Right-click** — Attack target / Use skill on target
+- **Keyboard shortcuts** — Activate skills (configurable)
+- **Skill bar** — Quick access to your equipped skills
+
+### Fighting Monsters
+
+- Start with monsters near town that match your level.
+- Watch your HP bar — retreat to town if low.
+- Monsters drop items, gold, and give experience points.
+- Some monsters are aggressive (attack on sight), others are passive.
+
+### PvP (Player vs Player)
+
+- Outside safe zones, players of different races can attack each other.
+- Same-race PvP has restrictions and penalties.
+- Be cautious when exploring — enemy players may be nearby.
+
+---
+
+## Leveling Up
+
+### Slayer Progression
+
+- Slayers don't have a traditional "level" — they progress by increasing skill domain levels.
+- Use Blade skills to increase Blade level, Gun skills to increase Gun level, etc.
+- Your overall power is the combination of all your domain levels.
+- Stats (STR/DEX/INT) increase based on which skills you use.
+
+### Vampire & Ousters Progression
+
+- Gain EXP by killing monsters and completing quests.
+- Level up to gain bonus stat points.
+- Learn new skills as you reach level requirements.
+- At level 150, you can advance to **Advanced Class** for powerful new skills.
+
+---
+
+## Skills
+
+### Learning Skills
+
+- Skills are learned through **Skill Scrolls** (Learning Items).
+- Scrolls can be purchased from NPCs or dropped by monsters.
+- Each race has its own exclusive skills — skills cannot be shared between races.
+
+### Skill Domains
+
+| Race | Domains |
+|------|---------|
+| Slayer | Blade, Sword, Gun, Heal, Enchant, ETC |
+| Vampire | Vampire (single domain) |
+| Ousters | Ousters (single domain) |
+
+### Advanced Class (Level 150+)
+
+After reaching level 150, characters can advance to gain access to powerful tier-2 and tier-3 skills:
+
+- **Slayer**: 3 advanced skills per domain (15 total)
+- **Vampire**: 6 advanced skills
+- **Ousters**: 12 advanced skills with prerequisite chains
+
+---
+
+## Equipment & Items
+
+### Item Types
+
+- **Weapons** — Swords, guns, chakrams, etc.
+- **Armor** — Helmets, body armor, gloves, boots, shields
+- **Accessories** — Rings, necklaces, bracelets
+- **Consumables** — Potions, scrolls, food
+- **Skill Scrolls** — Used to learn new skills
+
+### Item Options
+
+Items can have bonus options (e.g., DEX+3, STR+5). Most items can have up to 2 options. Higher-tier zones may drop items with 3 options.
+
+### Item Enhancement
+
+- Items can be enhanced or upgraded through various in-game systems.
+- Enhanced items have better stats but may break on failure.
+
+---
+
+## The World
+
+### Zones & Maps
+
+The game world is divided into multiple zones:
+
+- **Towns** — Safe zones with NPCs and services
+- **Fields** — Open areas with monsters for grinding
+- **Dungeons** — Dangerous areas with stronger monsters and better loot
+- **Special Zones** — Event areas, PvP zones, and premium areas
+
+### Day/Night Cycle
+
+- The game has a real-time day/night cycle.
+- **Vampires** are stronger at night and weaker during the day.
+- **Slayers** and **Ousters** are not affected by the cycle.
+- Some monsters only appear at certain times.
+
+---
+
+## Social Features
+
+### Chat System
+
+- **Normal Chat** — Visible to nearby players (same race can read clearly; different race text is scrambled)
+- **Zone Chat** — Broadcast to all players in the same zone
+- **Whisper** — Private message to a specific player
+- **Party Chat** — Communication within your party
+- **Guild Chat** — Communication within your guild
+
+### Guilds
+
+- Join or create a guild to team up with other players.
+- Guilds can own castles and participate in guild wars.
+- Guild members share a chat channel and can support each other.
+
+### Party System
+
+- Form parties with other players to hunt together.
+- Party members share experience from kills.
+- Party chat allows private group communication.
+
+---
 
 ## Tips for Beginners
 
-- Complete the tutorial quests to earn starter equipment
-- Join a clan for protection and support
-- Avoid high-level zones until you are strong enough
-- Use potions to heal during combat
-- Check the ranking to see the top players
+1. **Stay near town at first** — Don't wander too far until you're stronger.
+2. **Save your gold** — Buy only essential equipment early on.
+3. **Learn your skills** — Read skill descriptions and practice using them.
+4. **Watch the minimap** — It shows nearby players and monsters.
+5. **Join a guild** — Experienced players can help you learn faster.
+6. **Store valuable items** — Use the storage NPC to keep items safe.
+7. **Don't carry too much gold** — You can lose it if you die in PvP.
+8. **Pay attention to race chat** — Different races cannot understand each other clearly (text is scrambled based on your INT stat).
+9. **Use potions wisely** — Always carry HP recovery items when hunting.
+10. **Explore gradually** — Each zone has different monster levels; check if you're ready before entering.
 
-## Need Help?
+---
 
-If you have questions, contact us through our Discord server.
+## Keyboard Shortcuts
+
+| Key | Action |
+|-----|--------|
+| F1-F8 | Skill slots |
+| Enter | Open chat input |
+| Tab | Toggle minimap |
+| I | Open inventory |
+| S | Open skill window |
+| C | Open character stats |
+| G | Open guild window |
+| M | Open world map |
+| Esc | Close current window / Cancel |
+
+*(Note: Shortcuts may vary based on configuration)*
+
+---
+
+## Frequently Asked Questions
+
+**Q: How do I recover HP?**
+A: Use potions, visit a healer NPC in town, or use healing skills (Slayer Heal domain / Ousters recovery skills). Vampires can use Blood Drain on enemies.
+
+**Q: How do I make money?**
+A: Kill monsters for gold drops, sell unwanted items to NPCs, or trade with other players.
+
+**Q: Can I change my race?**
+A: No, your race is permanent once chosen. Choose carefully!
+
+**Q: What happens when I die?**
+A: You respawn in the nearest safe zone. You may lose some experience or items depending on the circumstances.
+
+**Q: How do I trade with other players?**
+A: Use the trade system by right-clicking on another player and selecting "Trade."
+
+**Q: What is the Premium Card?**
+A: Premium status gives bonus experience, access to special zones, and other benefits. It's time-limited and can be activated through the game system.
+
+---
+
+## Summary
+
+| Feature | Slayer | Vampire | Ousters |
+|---------|--------|---------|---------|
+| Progression | Skill domains | Level-based | Level-based |
+| Strength | Equipment | Night power + Transforms | Elemental magic |
+| Weakness | Gear-dependent | Weaker in daytime | Lower physical defense |
+| Playstyle | Versatile / Team roles | Solo hunter / Assassin | Mage / Summoner |
+| Advanced Class | Level 150+ | Level 150+ | Level 150+ |
+
+---
+
+*Welcome to Dark Eden. Choose your side, and fight for survival in the eternal war between light and darkness.*
