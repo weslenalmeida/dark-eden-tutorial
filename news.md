@@ -17,5 +17,5 @@ Take advantage of the bargains in the in-game store!
 # War Race 
 2026-05-30
 
-The battle for the Bloody Bibles has already begun and takes place every week at 10:00 p.m. (UTC -3)!
+The battle for the “Bloody Bibles” has already begun and takes place every Sunday at 10:00 p.m. (UTC -3)
 
